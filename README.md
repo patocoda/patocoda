@@ -1,4 +1,5 @@
--Introduction: I’m  Ahinga Patrick also known as @patocoda an udacity student persuing a nanodegree in data analyst.
+-Introduction:
+I’m  Ahinga Patrick also known as @patocoda an udacity student persuing a nanodegree in data analyst.
 - I’m interested in in Machine learning ,data mining and web scraping to enable me to grow my skills in the data analyst field.
 - I’m currently learning data exploration and visualization using various tools.
 - I’m looking to collaborate on various projects in data mining,visualization and exploration
